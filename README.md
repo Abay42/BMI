@@ -9,5 +9,5 @@
   the style was made using bootstrap
   -
 
-  it also has a history of searhes
+  it also has a history of searches
   -
